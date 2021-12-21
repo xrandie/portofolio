@@ -9,7 +9,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Hello I'm Nzai<br/>
-        I design & Biuld  beautiful User Interfaces
+        I design & Build  beautiful User Interfaces
       </SectionTitle>
       <SectionText>
         I'm a freelancer Web Developer and Web Designer based in Nairobi, Kenya. I'm highly experienced in building custom Websites and Web Apps using React js
